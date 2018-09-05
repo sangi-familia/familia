@@ -1,0 +1,58 @@
+https://github.com/
+ ここでアカウントを作る
+
+　・名前
+　・メルアド
+　・パスワード
+　を入力して、サインアップ
+
+
+Choose your personal planで下記を選択
+　Unlimited public repositories for free.
+
+アンケート
+　Somewhat experienced
+
+　School projects
+
+　I'm a student
+
+Submitする。
+
+メールを確認して、Verify email address
+
+これでアカウント登録は完了です。
+
+
+
+
+不要なファイル
+.Gitignoreに管理対象としないファイルを設定
+Library
+TempBuildObj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.swp
+*.csproj
+
+
+リポジトリネーム
+　アルファベットでプロジェクト名
+　ディスクリプション　空でよい
+　Public
+　特に触らない。
+
+グローバルのリポジトリを作る。
+ローカルを指定してリポジトリのクローンを作る。
+
+https://github.com/Rui-Suzuki/3drobo.git
+
+.gitignore
+　Library/
+　を登録してコミットする。
+　このフォルダはすごい量なので、普通はコミットせずにイグノア(除外)にする。
+　企業に就職してからgithubを使ったことがある経験から知ったかぶりして、
+　やらかすと怒られるので注意。
+
